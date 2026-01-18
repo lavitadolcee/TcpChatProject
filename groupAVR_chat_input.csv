@@ -1,0 +1,17 @@
+msg_id,app_protocol,src_app,dst_app,message,timestamp
+1,CHAT_APP,client_user,chat_server,Hi,0.000
+2,CHAT_APP,chat_server,client_user,Hello! How can I help?,0.010
+3,CHAT_APP,client_user,chat_server,My cat is stuck on a tree - please save her!,0.030
+4,CHAT_APP,chat_server,client_user,Got it. Where are you located?,0.045
+5,CHAT_APP,client_user,chat_server,Near the park on Herzl street.,0.070
+6,CHAT_APP,chat_server,client_user,Is the cat injured or just scared?,0.085
+7,CHAT_APP,client_user,chat_server,Not injured. She is scared and meowing.,0.110
+8,CHAT_APP,chat_server,client_user,How high is the tree? Approx meters?,0.125
+9,CHAT_APP,client_user,chat_server,About 4 meters. I can't reach her.,0.150
+10,CHAT_APP,chat_server,client_user,Stay calm. Keep people away and do not climb if unsafe.,0.175
+11,CHAT_APP,client_user,chat_server,Ok. Can you send someone?,0.200
+12,CHAT_APP,chat_server,client_user,Yes. Help is on the way. Keep an eye on her.,0.230
+13,CHAT_APP,client_user,chat_server,Thank you! Please hurry.,0.260
+14,CHAT_APP,chat_server,client_user,You're welcome. Update me if anything changes.,0.290
+
+
